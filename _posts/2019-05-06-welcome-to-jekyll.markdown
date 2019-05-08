@@ -1,25 +1,23 @@
 ---
 layout: post
-title:  "My First blog post"
-date:   2019-05-06 23:38:54 +0530
+title:  "Why I Switched to Jekyll"
+date:   2019-05-08 23:38:54 +0530
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+This is my first, blog I **made using Jekyll**. There are many sites where you can host your blogs
+1. Wordpress
+2. Medium
+3. Github Static Pages
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+![Jekyll Logo](https://cdn-images-1.medium.com/max/1200/0*N8RG95bKJnnF-wpL.png)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+To be honest, using Medium or Wordpress is kind of surrendering you content to tech-giants which is not good from a developers perspective. Moreover making a full-fledged website and deploying on server is costly. 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Hence Github Pages is the best bet one can take. And perhaps this is  the reason I switched to Jekyll.
+
+### Salient Features of Jekyll
+1. **Static Site Generator** :+1:
+2. **No bulky Backend and Server**:+1:
+3. **Since the site is rendered and then served, Your page-time load will be blazingly fast**:+1:
