@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-This is my first, blog I **made using Jekyll**. There are many sites where you can host your blogs
+This is my first blog, I **made using Jekyll**. There are many sites where you can host your blogs
 1. Wordpress
 2. Medium
 3. Github Static Pages
