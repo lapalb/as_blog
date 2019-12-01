@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<body style="background-color:#fdfdfd">
 
-{%- include head.html -%}
+{% include header.html %}
 
-<body>
-
-{%- include header.html -%}
-
-<main class="page-content" aria-label="Content">
-    <div class="wrapper">
+    <div class="container">
         {{ content }}
     </div>
-</main>
-
+</div>
 {%- include footer.html -%}
 
 </body>
