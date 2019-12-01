@@ -3,6 +3,7 @@ layout: post
 title:  "Reflection"
 date:   2019-11-30 23:38:54 +0530
 categories: Life
+
 ---
 
 2019 is coming to an end. This mark the beginning of a new decade. As it is customary with any new beginning we take 
@@ -27,3 +28,4 @@ me in long run.
 >
 >Long term thinking is secret weapon
 
+{{page.title}}
