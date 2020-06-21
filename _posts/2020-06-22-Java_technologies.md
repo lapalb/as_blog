@@ -6,7 +6,7 @@ categories: Tech
 
 ---
 
-### Java Tech Stack
+
 
 1. CGI
 2. Servlet
