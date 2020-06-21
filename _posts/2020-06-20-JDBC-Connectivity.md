@@ -13,11 +13,13 @@ categories: Tech
 4. Execute Query
 5. Close connection
 
-`Class.forName("oracle.jdbc.driver.OracleDriver");`
+```
+Class.forName("oracle.jdbc.driver.OracleDriver");
 
-`Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","neo4j","password");`
+Connection con=DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","neo4j","password");
 
-`Statement stmt=con.createStatement();`
+Statement stmt=con.createStatement();
+```
 
 ```
 ResultSet rs=stmt.executeQuery("select * from emp");  
