@@ -17,6 +17,8 @@ body {
   font: 12px Montserrat, sans-serif;
   line-height: 1.8;
   color: #474e5d;
+  min-height: 100vh;
+  position: relative;
 }
 
 html,
@@ -95,7 +97,7 @@ h2 {
 
 {% include header.html %}
 
-    <div class="container ">
+    <div class="container" style="padding-bottom: 300px">
         {{ content }}
     </div>
 
