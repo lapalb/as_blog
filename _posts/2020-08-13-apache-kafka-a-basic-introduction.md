@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Apache Kafka : A Basic Introduction"
-tags:
- -
+date: 2020-08-13 16:32:54 +0530
+categories: Tech
 ---
 Apache Kafka is messaging system developed by LinkedIn and donated to Apache Foundation. This is De-Facto messaging system used for Server Side development.
 It uses Publisher Subscriber Design Pattern.
