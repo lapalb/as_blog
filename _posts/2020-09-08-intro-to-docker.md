@@ -27,3 +27,15 @@ The image contains all dependencies,configuration, script and binaries.
 
 
 1. Dockerfile: A text file containing set of instruction to create Container image
+
+<h3 class="alert-success">Container Volume:</h3>
+Every Container gets something as scratch space, which is used to File Operation. These changes get lost when container is 
+removed. Volumes provide the ability to connect specific filesystem paths of the container back to the host machine. 
+There are tow type of Volumes:
+1. Names Volumes
+2. Anonymous Volumes
+
+```bash
+docker volume create todo-db
+docker volume inspect todo-db
+```
