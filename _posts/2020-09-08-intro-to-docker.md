@@ -16,7 +16,7 @@ For long time, Dev team used to blame operation team and vice-versa for any fail
 toward the need of isolated environment. The VMs solved the issue but creating a VM is very resource intensive and we have to
 install both Operation system and libraries. Then came the concept of Container which provided isolated environment but you dont 
 need to install Operating system for every isolated environment.
-<img style="margin-left: auto;margin-right: auto; width: 60%;" src="https://www.docker.com/sites/default/files/d8/2018-11/docker-containerized-and-vm-transparent-bg.png">
+<img src="https://www.docker.com/sites/default/files/d8/2018-11/docker-containerized-and-vm-transparent-bg.png">
 
 
 ---

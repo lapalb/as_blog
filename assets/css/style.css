@@ -2,7 +2,13 @@
  * {
   box-sizing: border-box;
 }
-
+.navbar-color {
+  background-color: #f8f8f8 !important; 
+}
+a{
+  text-decoration: none;
+  color:#337ab7;
+}
 body {
   background-color: #474e5d;
   font-family: 'Roboto', sans-serif;

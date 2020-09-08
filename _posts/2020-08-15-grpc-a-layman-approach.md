@@ -13,7 +13,7 @@ categories: Tech
 4. Provides features such as authentication, **bidirectional** streaming and flow control, blocking or nonblocking bindings, and cancellation and timeouts.
 5. generates cross-platform client and server bindings for many languages
 
-<img style="margin-left: auto;margin-right: auto; width: 60%;" src="https://grpc.io/img/landing-2.svg">
+<img src="https://grpc.io/img/landing-2.svg">
 ### Where we use gRPC
 1. connecting services in microservices style architecture
 2. Connecting mobile devices and browser client to Backend Service
