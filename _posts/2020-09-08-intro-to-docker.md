@@ -5,8 +5,13 @@ tags:
  -
 ---
 
-<div class="alert alert-warning" role="alert">
-It works on my system : Every Developer
+<div class="alert alert-warning text-right pb-0" role="alert">
+  <blockquote class="blockquote">
+    <p>It works on my system</p>
+  </blockquote>
+  <figcaption class="blockquote-footer">
+     <cite title="Source Title">Every Developer</cite>
+  </figcaption>
 </div>
 
 For long time, Dev team used to blame operation team and vice-versa for any failure in App deployment. This pressed 
