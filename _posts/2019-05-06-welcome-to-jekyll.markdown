@@ -15,9 +15,11 @@ This is my first blog, I **made using Jekyll**. There are many sites where you c
 
 To be honest, using Medium or Wordpress is kind of surrendering you content to tech-giants which is not good from a developers perspective. Moreover making a full-fledged website and deploying on server is costly. 
 
-Hence Github Pages is the best bet one can take. And perhaps this is  the reason I switched to Jekyll.
+Hence Github Pages is the best bet one can take. And perhaps this is  the reason I switched to Jekyll. 
 
 ### Salient Features of Jekyll
 1. **Static Site Generator** :+1:
 2. **No bulky Backend and Server**:+1:
 3. **Since the site is rendered and then served, Your page-time load will be blazingly fast**:+1:
+
+> This Site was using Bootstrap 3 and we have migrated to bootstrap 5, let me know if you see any issues!
