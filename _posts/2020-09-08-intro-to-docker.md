@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Intro to Docker"
-tags:
+tags: Life
  -
 ---
 
