@@ -4,11 +4,13 @@ title: "The Life Ahead"
 tags:
  -
 ---
-
+<div style="display:none">
 It's April 2021 and the Covid-19 lock down threat is looming over again. This time we are seeing close to 1.5 Lakh cases daily. So many things have happened in last 1 months and it's very overwhelming to go over it. A relationship which was very close to my heart has come to end. She was very close to me and this post is about my relationship and life ahead in general. For the sake of her privacy, let's call her Baby Yoda(She was cuter than Baby Yoda though).
-
+</div>
+<center><h3 class="alert-success center">I love Baby Yoda </h3></center>
 ![Baby Yoda Image](/as_blog/images/babyYoda.jpeg)
 
+<div style="display:none">
 <br>
 Yoda and I have been fighting a lot there days. Mostly due to silly reasons. I was always there for her when she needed me and now when she is in Bangalore and I am in my hometown, she decided to ditch me. It's hard for me to contemplate this breakup. She has been going through a very traumatic job experience in merchandising industry, where working hours are long, pay is less and work is stressful. If we club this stressful job with covid and loneliness in Bangalore then it may not be hard to understand that why she is angry and shouting these days. She has been the sweetest and most graceful person, I have met. I miss her badly but life goes on(That's what she said to me!). 
 
