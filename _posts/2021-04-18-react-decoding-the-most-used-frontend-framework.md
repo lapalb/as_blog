@@ -6,9 +6,9 @@ tags:
 ---
 # React
 
-I have been a religious fanboy on Angular Cinematic universe for long. This weekend I decided to go through the react and to understand why so much fuss is created around around React. This blogs will be an introduction to React Framework.
+I have been a religious fanboy of Angular Cinematic universe for long. This weekend I decided to go through the react and to understand why so much fuss is created around React. This blogs will be an introduction to React Framework.
 
-React was developed by Facebook as a frontend library. Unlike Angular, it is not a framework. Frameworks offers a very opinionated way of coding.
+React was developed by Facebook as a frontend library. Unlike Angular, it is not a framework. Frameworks offers a very opinionated way of coding(And we hate opinions 😉 ).
 
 To use react, all we need is to import react and react DOM library.
 
@@ -66,12 +66,12 @@ class Hello extends React.Component {
 
 If component needs constant values, props is the best choice. Otherwise state needs to be implemented. 
 
-```jsx
+```js
 //State should not be modified directly. Instead, React provides a setState() method, that can be used to modify the state.
 class Hello extends React.Component {
 	
 	state = {
-    name: "Akanksha",
+  name: "Akanksha",
 		age: 20
   }
 	doSomthing = function(){
@@ -101,20 +101,10 @@ function Hello() {
 
 ## LifeCycle Method
 
-These methods are called when component is mounted and when it is updated and when it is unmounted
+These methods are called when component is mounted, when it is updated and when it is unmounted
 
-Class Component
-
----
-
-componentDidMount
-
-componentWillUnmount
-
-componentDidUpdate
-
-Functional Component
-
----
-
-React provides a special Hook called `useEffect` to make lifecycle methods available in functional components
+| Class Component      	| Functional Component                                                                                            	|
+|----------------------	|-----------------------------------------------------------------------------------------------------------------	|
+| componentDidMount    	| React provides a special Hook called  `useEffect`  to make lifecycle methods available in functional components 	|
+| componentDidUpdate   	|                                                                                                                 	|
+| componentWillUnmount 	|                                                                                                                 	|
