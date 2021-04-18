@@ -7,7 +7,6 @@ tags:
 `Redux` was created to make `state management` predictable, providing a single state container and strict rules on how state can be changed. It can be used with any front-end framework, such as `React`, `Angular`, `jQuery`. 
 
 This was based on the principle of Single Source of Truth(Who cares about truth anyways these days 😜)
-ngle Source of Truth(Who cares about truth anyways these days 😜)
 
 <img class="img-fluid" src="/as_blog/images/redux.jpeg">
 
