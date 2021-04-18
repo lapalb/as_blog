@@ -28,7 +28,7 @@ The Application state is stored in ..... You guessed it right. It's `store`. The
 	college: "NIFT",
 	cute: true,
 	graceful: true,
-	canDitch: true
+	isAwesome: true
 }
 ```
 
