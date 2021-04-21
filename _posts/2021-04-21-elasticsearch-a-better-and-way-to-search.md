@@ -9,7 +9,7 @@ My very first impression of Elastic search was "A cliche NO-SQL database, backed
 
 Elastic Search is part of `ELK` stack(Elastic Search, Logstash, Kibana)
 
-ELK is `document oriented` database that is optimized for search. It is open-source and distributed(Multiple Node) by default. `ES Cluster` contains one or more nodes for storing data. It contains replicas(For Fault Tolerance) and shard(Single Index spread across different node using shards)
+ELK is `document-oriented` database that is optimized for search. It is open-source and distributed(Multiple Node) by default. `ES Cluster` contains one or more nodes for storing data. It contains replicas(For Fault Tolerance) and shard(Single Index spread across different node using shards)
 
 <img src="/as_blog/images/es.png" alt="rxjs image">
 ### APIs available in Elastic Search
