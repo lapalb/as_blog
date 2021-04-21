@@ -5,7 +5,7 @@ tags:
  -
 ---
 
-My very first impression of Elastic search was "A cliche NO-SQL database, backed my an organization, which was doing lots of marketing gimmicks to gain attention". Down the line, I did realise that Elastic search was much more than that. Searching document was never been so efficient. Additionally it is based on Apache(OG, GOAT of Free and Open Source Software) Lucene.
+My very first impression of Elastic search was "A cliche NO-SQL database, backed by an organization, which was doing lots of marketing gimmicks to gain attention". Down the line, I did realise that Elastic search was much more than that. Searching document was never been so efficient. Additionally it is based on Apache(OG, GOAT of Free and Open Source Software) Lucene.
 
 Elastic Search is part of `ELK` stack(Elastic Search, Logstash, Kibana)
 
